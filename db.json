@@ -1,0 +1,601 @@
+{
+    "tours":[
+  
+  
+        {
+            "id":1,
+            "category":100,
+            "cat_show":"Luxary/ With-Most",
+            "name":"Cultural Treasures",
+            "sm_desc":"Journey through Sri Lanka's history!",
+            "card_img":"https://images.unsplash.com/photo-1627895457805-c7bf42cb9873?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+            "lg_desc":"This package is perfect for travelers who are interested in history and culture. It takes you on a journey through Sri Lanka's ancient past, visiting impressive sites like Sigiriya, Polonnaruwa, and the Temple of the Tooth in Kandy. You'll be amazed by the intricate carvings, majestic architecture, and the stories behind each of these incredible cultural treasures.",
+            "days":"7",
+            "tour_d1_title":"1: Arrival in Colombo",
+            "tour_d2_title":"Day 2: Sigiriya and Dambulla",
+            "tour_d3_title":"Day 3: Polonnaruwa and Minneriya National Park",
+            "tour_d4_title":"Day 4: Kandy",
+            "tour_d5_title":"Day 5: Kandy City Tour",
+            "tour_d6_title":"Day 6: Colombo City Tour",
+            "tour_d7_title":"Day 7: Departure from Colombo",
+  
+            "tour_d1_desc":"Upon your arrival at the Bandaranaike International Airport in Colombo, our tour representative will meet you and transfer you to your hotel. Spend the rest of the day at leisure, enjoying the hotel's amenities or exploring the city",
+            "tour_d2_desc":"After breakfast, we'll depart for Sigiriya, home to the ancient rock fortress of Sigiriya. Climb the impressive rock fortress and marvel at the breathtaking views of the surrounding countryside. Afterward, we'll visit the nearby Dambulla Cave Temple, a UNESCO World Heritage Site that features a series of cave temples filled with ancient murals and statues",
+            "tour_d3_desc":"Today, we'll visit the ancient city of Polonnaruwa, another UNESCO World Heritage Site that was once the capital of Sri Lanka. Explore the ruins of ancient palaces, temples, and statues that date back to the 12th century. In the afternoon, we'll take a jeep safari in Minneriya National Park, home to herds of elephants and other wildlife",
+            "tour_d4_desc":"Today, we'll visit the ancient city of Polonnaruwa, another UNESCO World Heritage Site that was once the capital of Sri Lanka. Explore the ruins of ancient palaces, temples, and statues that date back to the 12th century. In the afternoon, we'll take a jeep safari in Minneriya National Park, home to herds of elephants and other wildlife",
+            "tour_d5_desc":"Today, we'll take a city tour of Kandy, visiting the Royal Botanical Gardens, the Kandy Lake, and the bustling Kandy market. In the evening, we'll enjoy a traditional Kandyan dance performance",
+            "tour_d6_desc":"After breakfast, we'll depart for Colombo, Sri Lanka's commercial capital. We'll take a city tour of Colombo, visiting the Gangaramaya Temple, the National Museum, and the Independence Square. In the evening, we'll have dinner at a local restaurant before returning to our hotel",
+            "tour_d7_desc":"After breakfast, we'll transfer you to the airport for your departure flight. You'll leave Sri Lanka with unforgettable memories of the country's rich cultural heritage and natural beauty",
+  
+            "acc_d1":"Day 1: Arrival in Colombo - Hotel in Colombo",
+            "acc_d2":"Day 2: Sigiriya and Dambullambo - Hotel in Sigiriya",
+            "acc_d3":"Day 3: Polonnaruwa and Minneriya National Park - Hotel in Habarana",
+            "acc_d4":"Day 4 & 5: Kandy - Hotel in Kandy",
+            "acc_d5":"Day 6: Colombo City Tour - Hotel in Colombo",
+            "acc_d6":"Day 7: Departure from Colombo - No accommodation is provided on the last day of the tour as you'll be departing from Colombo",
+  
+            "att_1_title":"Sigiriya and Dambulla",
+            "att_2_title":"Polonnaruwa and Minneriya National Park",
+            "att_3_title":"Kandy",
+            "att_4_title":"Kandy City Tour",
+            "att_5_title":"Colombo City Tour",
+  
+            "att_1_desc":"Sigiriya Rock Fortress: An ancient rock fortress that towers 200 meters above the surrounding plains. It was built in the 5th century and features beautiful frescoes and stunning views of the surrounding countryside",
+            "att_2_desc":"Dambulla Cave Temple: A UNESCO World Heritage Site that features a series of five cave temples filled with ancient murals and statues of Buddha",
+            "att_3_desc":"Polonnaruwa: An ancient city that was once the capital of Sri Lanka. It features many ruins of ancient palaces, temples, and statues that date back to the 12th century",
+            "att_4_desc":"Minneriya National Park: A wildlife sanctuary that is home to herds of elephants, sambar deer, and many species of birds",
+            "att_5_desc":"Spice Garden: A garden where you can learn about and see the cultivation of Sri Lanka's famous spices",
+            "att_6_desc":"Temple of the Tooth: A sacred Buddhist temple that houses a relic of the Buddha's tooth. It is one of the most important religious sites in Sri Lanka",
+            "att_7_desc":"Royal Botanical Gardens: One of the largest botanical gardens in Asia, featuring a wide variety of flora from around the world",
+            "att_8_desc":"Kandy Lake:A picturesque lake located in the heart of the city, surrounded by lush greenery",
+            "att_9_desc":"Kandyan Dance Performance A traditional dance performance showcasing Sri Lanka's rich cultural heritage",
+            "att_10_desc":"Gangaramaya Temple: A Buddhist temple that features a mix of Sri Lankan, Thai, and Indian architecture",
+            "att_11_desc":"National Museum: A museum that showcases the history and culture of Sri Lanka, including ancient artifacts and exhibits on the island's colonial past",
+            "att_12_desc":"Lotus Tower: An iconic tower that stands at 350 meters tall, making it the tallest self-supported structure in South Asia. Visitors can take in panoramic views of the city from the tower's observation deck",
+            
+            "price_usd":"875",
+            "price_lkr":"170625"
+        },
+  
+  
+        {
+          "id":6,
+          "category":101,
+          "cat_show":"Budget Travel",
+          "name":"Discover Sri Lanka",
+          "sm_desc":"Uncover wonders without overspending",
+          "card_img":"https://images.unsplash.com/photo-1544015759-237f87d55ef3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+          "lg_desc":"Discover Sri Lanka on a Budget: This tour package is ideal for budget-conscious travelers who want to explore the best of Sri Lanka without overspending. You'll get to visit popular destinations like the ancient city of Anuradhapura, the picturesque town of Ella, and the wildlife-rich Yala National Park. Along the way, you'll stay in budget-friendly accommodations that offer comfort and convenience at a reasonable price.",
+          "days":"5",
+          "tour_d1_title":"Day 1: Colombo to Bentota",
+          "tour_d2_title":"Day 2: Bentota to Galle to Hikkaduwa",
+          "tour_d3_title":"Day 3: Hikkaduwa to Kandy",
+          "tour_d4_title":"Day 4: Kandy to Nuwara Eliya",
+          "tour_d5_title":"Day 5: Nuwara Eliya to Colombo",
+  
+          "tour_d1_desc":"Your tour begins with your arrival at Bandaranaike International Airport, where you will be greeted by our representative. We will then head towards the picturesque coastal town of Bentota, famous for its golden beaches and water sports. You will have the rest of the day to relax and enjoy the tranquil surroundings.",
+          "tour_d2_desc":"After breakfast, we will proceed towards Galle, a UNESCO World Heritage site. You will have the opportunity to explore the well-preserved Dutch fort, which stands as a testament to Sri Lanka's colonial history. We will then continue on to Hikkaduwa, a popular beach destination known for its coral reefs and vibrant marine life. You can indulge in some snorkeling or scuba diving to witness the underwater beauty of Sri Lanka.",
+          "tour_d3_desc":"Today, we will head towards Kandy, the last royal capital of Sri Lanka. En route, we will visit the Pinnawala Elephant Orphanage, where you can witness the majestic elephants up close and even help with their feeding. In the evening, we will visit the Temple of the Tooth, a sacred Buddhist temple that houses the tooth relic of Lord Buddha.",
+          "tour_d4_desc":"After breakfast, we will proceed towards the misty hills of Nuwara Eliya. En route, we will stop at a tea factory, where you can witness the process of tea-making and indulge in some tea-tasting. Once we reach Nuwara Eliya, also known as \"Little England,\" we will explore the town and its colonial architecture.",
+          "tour_d5_desc":"On the final day of the tour, we will return to Colombo, Sri Lanka's commercial capital. You will have the opportunity to explore the city's bustling markets and indulge in some shopping for souvenirs. Our representative will drop you off at the airport in time for your departure flight.",
+  
+          "acc_d1":"Day 1: Budget hotel in Bentota",
+          "acc_d2":"Day 2: Budget hotel in Hikkaduwa",
+          "acc_d3":"Day 3: Budget hotel in Kandy",
+          "acc_d4":"Day 4: Budget hotel in Nuwara Eliya",
+          "acc_d5":"Day 5: No accommodation provided",
+  
+          "att_1_title":"Day 1: Colombo and Kandy",
+          "att_2_title":"Day 2: Sigiriya and Dambulla",
+          "att_3_title":"Day 3: Nuwara Eliya and Ella",
+          "att_4_title":"Day 4: Yala National Park and Galle",
+          "att_5_title":"Day 5: Bentota and Colombo",
+  
+          "att_1_desc":"Gangaramaya Buddhist Temple in Colombo: a famous temple with a mix of Sri Lankan, Thai, Indian, and Chinese architecture, Gangaramaya Buddhist Temple in Colombo: a famous temple with a mix of Sri Lankan, Thai, Indian, and Chinese architecture, Kandy Lake in Kandy: a beautiful lake in the heart of Kandy city, surrounded by lush greenery, Kandy Lake in Kandy: a beautiful lake in the heart of Kandy city, surrounded by lush greenery, Kandy Market: a bustling market with vendors selling local fruits, vegetables, spices, and handicrafts",
+          "att_2_desc":"Kandy Market: a bustling market with vendors selling local fruits, vegetables, spices, and handicrafts, Dambulla Cave Temple: a UNESCO World Heritage Site that houses over 150 Buddha statues and stunning wall paintings",
+          "att_3_desc":"Tea Plantation in Nuwara Eliya: a scenic tea estate where you can witness the tea-making process and enjoy a cup of freshly brewed tea, Gregory Lake in Nuwara Eliya: a picturesque lake with scenic views of the surrounding hills, Ravana Falls in Ella: a stunning waterfall with a height of 25 meters, Nine Arch Bridge in Ella: a beautiful railway bridge with nine arches, offering stunning views of the surrounding hills and tea plantations",
+          "att_4_desc":"Yala National Park: a wildlife sanctuary with a high concentration of leopards, elephants, and other exotic animals, Galle Fort: a UNESCO World Heritage Site with a rich colonial history and stunning architecture",
+          "att_5_desc":"Bentota Beach: a beautiful beach with crystal clear waters and water sports activities Kosgoda Turtle Hatchery: a turtle conservation project where you can see baby turtles and learn about the conservation efforts, Colombo City Tour: a tour of the capital city of Sri Lanka, including visits to famous landmarks like the Colombo National Museum, Gangaramaya Temple, and the Viharamahadevi Park.",
+          
+          "price_usd":"475",
+          "price_lkr":"87500"
+      },
+  
+  
+        
+  
+  
+        {
+            "id":3,
+            "category":100,
+            "cat_show":"Luxary/ With-Most",
+            "name":"Into the Wild",
+            "sm_desc":"Explore nature's wonders in Ceylon!",
+            "card_img":"https://images.unsplash.com/photo-1667323169496-c6a34dd8e293?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1555&q=80",
+            "lg_desc":"This package is perfect for travelers who love adventure and wildlife. It takes you to Sri Lanka's national parks and wildlife reserves, where you can spot elephants, leopards, monkeys, and other exotic animals. You'll go on a safari adventure and experience nature's beauty up close.",
+            "days":"7",
+            "tour_d1_title":"Day 1: Arrival in Colombo",
+            "tour_d2_title":"Day 2: Wilpattu National Park",
+            "tour_d3_title":"Day 3: Anuradhapura",
+            "tour_d4_title":"Day 4: Minneriya National Park",
+            "tour_d5_title":"Day 5: Sigiriya and Polonnaruwa",
+            "tour_d6_title":"Day 6: Yala National Park",
+            "tour_d7_title":"Day 7: Departure",
+  
+            "tour_d1_desc":"You'll arrive in Colombo, where our friendly driver will meet you at the airport and transport you to your hotel in Negombo. After checking in and getting some rest, you can explore the charming coastal town on your own or take a leisurely stroll along the beach.",
+            "tour_d2_desc":"After breakfast, we'll depart for Wilpattu National Park, the largest wildlife reserve in Sri Lanka. You'll embark on an exciting jeep safari through the dense jungle, where you'll encounter a variety of exotic animals including leopards, elephants, sloth bears, and spotted deer. After a thrilling day in the park, we'll retire to our comfortable accommodation nearby.",
+            "tour_d3_desc":"We'll start the day with a visit to the ancient city of Anuradhapura, which was the capital of Sri Lanka for over 1,300 years. You'll explore the ruins of the city, including the majestic Ruwanwelisaya stupa, the Isurumuniya rock temple, and the magnificent Abhayagiriya monastery.",
+            "tour_d4_desc":"Our next stop is the Minneriya National Park, which is famous for its large herds of wild elephants. You'll embark on another thrilling jeep safari through the park, where you'll get to see these majestic creatures up close and personal. You may also encounter other wildlife such as sambar deer, macaques, and crocodiles.",
+            "tour_d5_desc":"Today we'll visit two UNESCO World Heritage sites - the ancient rock fortress of Sigiriya and the medieval city of Polonnaruwa. You'll climb the steep stairs to the top of Sigiriya, where you'll witness breathtaking views of the surrounding countryside. In Polonnaruwa, you'll explore the well-preserved ruins of the ancient city, including the impressive Parakrama Samudra reservoir.",
+            "tour_d6_desc":"We'll depart for Yala National Park, which is home to the highest concentration of leopards in the world. You'll embark on another exciting jeep safari through the park, where you'll encounter a variety of wildlife including elephants, sloth bears, water buffalo, and colorful birds. After a long day of adventure, we'll retire to our comfortable accommodation near the park.",
+            "tour_d7_desc":"On the final day of our tour, we'll transport you back to Colombo for your departure flight. You'll leave with unforgettable memories of the stunning wildlife and rich culture of Sri Lanka.",
+  
+            "acc_d1":"Day 1: Negombo - Jetwing Sea or similar Description: Jetwing Sea is a beachfront hotel with comfortable rooms, a swimming pool, and multiple dining options.",
+            "acc_d2":"Day 2: Wilpattu National Park - Leopard Trails Wilpattu or similar Description: Leopard Trails Wilpattu offers luxury camping in the heart of the jungle, with spacious tents, comfortable beds, and a private outdoor bathroom. The camp also has a lounge area and a dining tent where you'll enjoy delicious meals.",
+            "acc_d3":"Day 3: Anuradhapura - Heritage Hotel or similar Description: Heritage Hotel is a cozy boutique hotel located near the ancient city of Anuradhapura. The rooms are decorated in a traditional style and the hotel has a restaurant and a swimming pool.",
+            "acc_d4":"Day 4: Minneriya National Park - Elephant Watch Hut or similar Description: Elephant Watch Hut is a unique eco-lodge located on the banks of a river near Minneriya National Park. The huts are made of natural materials and are designed to blend in with the surrounding environment. The lodge offers delicious home-cooked meals and a peaceful, relaxing atmosphere.",
+            "acc_d5":"Day 5: Sigiriya and Polonnaruwa - Aliya Resort and Spa or similar Description: Aliya Resort and Spa is a luxurious hotel located in the heart of the Cultural Triangle. The rooms are spacious and modern, with stunning views of the surrounding countryside. The hotel also has a spa, a swimming pool, and multiple dining options.",
+            "acc_d6":"Day 6: Yala National Park - Leopard Trails Yala or similar Description: Leopard Trails Yala is another luxury camping experience, with spacious tents, comfortable beds, and a private outdoor bathroom. The camp also has a lounge area and a dining tent where you'll enjoy delicious meals.",
+  
+            "att_1_title":"Day 1: Negombo",
+            "att_2_title":"Day 2: Wilpattu National Park",
+            "att_3_title":"Day 3: Anuradhapura",
+            "att_4_title":"Day 4: Minneriya National Park",
+            "att_5_title":"Day 5: Sigiriya and Polonnaruwa",
+            "att_6_title":"Day 6: Yala National Park",
+  
+            "att_1_desc":"In Negombo, you can enjoy the beach and take a stroll through the town's bustling fish market. You can also visit the Negombo Dutch Fort, which dates back to the 17th century and is a testament to the town's colonial past.",
+            "att_2_desc":"Wilpattu National Park is one of Sri Lanka's largest and most beautiful wildlife reserves, home to a diverse range of wildlife including leopards, elephants, deer, and various species of birds. You'll go on a jeep safari through the park, where you'll have the chance to spot these animals in their natural habitat.",
+            "att_3_desc":"Anuradhapura is an ancient city and UNESCO World Heritage Site, known for its well-preserved ruins and Buddhist temples. You'll visit the Sri Maha Bodhi tree, which is said to be the oldest living tree in the world, and explore the ruins of the ancient city.",
+            "att_4_desc":"Anuradhapura is an ancient city and UNESCO World Heritage Site, known for its well-preserved ruins and Buddhist temples. You'll visit the Sri Maha Bodhi tree, which is said to be the oldest living tree in the world, and explore the ruins of the ancient city.",
+            "att_5_desc":"Sigiriya is an ancient rock fortress and UNESCO World Heritage Site, known for its stunning frescoes and panoramic views. Polonnaruwa is another ancient city and UNESCO World Heritage Site, known for its well-preserved ruins and ancient temples.",
+            "att_6_desc":"Yala National Park is one of Sri Lanka's most popular wildlife reserves, home to a diverse range of wildlife including leopards, elephants, deer, and various species of birds. You'll go on a jeep safari through the park, where you'll have the chance to spot these animals in their natural habitat. You'll also visit the nearby town of Tissamaharama and the ancient Buddhist temple of Kataragama.",
+            
+            "price_usd":"1675",
+            "price_lkr":"298050"
+        },
+  
+  
+  
+        {
+          "id":9,
+          "category":102,
+          "name":"Tropical Retreat for Two",
+          "cat_show":"2 persons",
+          "sm_desc":"Escape to paradise with your special someone",
+          "card_img":"https://i.pinimg.com/564x/5b/30/89/5b308929a34403541495d9df8b534681.jpg",
+          "lg_desc":"Tropical Retreat for Two is the perfect getaway for couples looking to escape the hustle and bustle of everyday life and relax in a tropical paradise. Over five days, you'll experience the best of Sri Lanka's stunning beaches and lush greenery, while staying in luxurious accommodations. You'll start with a visit to the charming coastal town of Bentota, where you can soak up the sun, stroll along the beach, and take a boat ride on the Bentota River. Next, you'll head to the idyllic hills of Ella, where you'll be surrounded by tea plantations, waterfalls, and breathtaking views. Along the way, you'll indulge in delicious local cuisine, enjoy cultural experiences, and create unforgettable memories with your partner.",
+          "days":"8",
+          "tour_d1_title":"Day 1:",
+          "tour_d2_title":"Day 2:",
+          "tour_d3_title":"Day 2:",
+          "tour_d4_title":"Day 4:",
+          "tour_d5_title":"Day 2:",
+          "tour_d6_title":"Day 2:",
+          "tour_d7_title":"Day 2:",
+          "tour_d8_title":"Day 2:",
+  
+          "tour_d1_desc":"Arrival at Bandaranaike International Airport, Private transfer to the hotel in Negombo, Relax and unwind at the hotel, Overnight stay in Negombo",
+          "tour_d2_desc":"Enjoy breakfast at the hotel, Private transfer to Dambulla, Visit Dambulla Cave Temple, Continue the journey to Sigiriya, Climb the Sigiriya Rock Fortress and enjoy the stunning views, Overnight stay in Sigiriya",
+          "tour_d3_desc":"Enjoy breakfast at the hotel, Private transfer to Kandy, Visit the Temple of the Tooth Relic, Take a stroll around Kandy Lake, Watch a cultural show in the evening, Overnight stay in Kandy",
+          "tour_d4_desc":"Enjoy breakfast at the hotel, Private transfer to Nuwara Eliya, Visit a tea plantation and factory to witness the tea-making process, Enjoy a scenic drive to Nuwara Eliya, Visit Victoria Park and explore the town, Overnight stay in Nuwara Eliya",
+          "tour_d5_desc":"Enjoy breakfast at the hotel, Private transfer to Ella, Take a scenic train ride from Nanu Oya to Ella, Visit Little Adam's Peak and Nine Arch Bridge, Overnight stay in Ella",
+          "tour_d6_desc":"Enjoy breakfast at the hotel, Private transfer to Mirissa, Relax and unwind at the beach, Overnight stay in Mirissa",
+          "tour_d7_desc":"Enjoy breakfast at the hotel, Private transfer to Galle, Visit Galle Fort and walk around the charming streets, Visit a turtle hatchery en route, Overnight stay in Galle",
+          "tour_d8_desc":"Enjoy breakfast at the hotel, Private transfer to Bandaranaike International Airport for departure",
+  
+          "acc_d1":"Day 1: Arrival at Cinnamon Bey Beruwala and check-in to the Deluxe Room with Sea View, Enjoy the hotel facilities and nearby beach",
+          "acc_d2":"Day 2: Transfer to Cinnamon Wild Yala and check-in to the Jungle Chalet, Take a Jeep Safari in Yala National Park to spot wildlife, Relax at the hotel and enjoy its facilities, Optional activities such as nature walks, bird watching, and cultural tours",
+          "acc_d3":"Day 4-5: Transfer to Cinnamon Citadel Kandy and check-in to the Superior Room, Visit the Temple of the Tooth Relic and explore Kandy city, Optional activities such as hiking in the Knuckles mountain range and visiting tea plantations",
+          "acc_d4":"Day 6-7: Transfer to Cinnamon Bey Beruwala and check-in to the Deluxe Room with Sea View, Enjoy the beach and hotel facilities, Optional activities such as water sports and visiting nearby attractions",
+  
+  
+          "att_1_title":"As Tropical Retreat for Two is a customized tour, the attractions along the way can vary depending on the preferences of the travelers. However, some popular attractions that couples can visit during their tropical retreat in Sri Lanka are:",
+          "att_2_title":"Unawatuna Beach",
+          "att_3_title":"Galle Fort",
+          "att_4_title":"Whale watching in Mirissa",
+          "att_5_title":"Ella",
+          "att_6_title":"Yala National Park",
+          "att_7_title":"Sigiriya Rock Fortress",
+          "att_8_title":"Kandy",
+  
+          "att_1_desc":"",
+          "att_2_desc":"one of the most picturesque and romantic beaches in Sri Lanka",
+          "att_3_desc":"a UNESCO World Heritage Site with beautiful Dutch colonial architecture",
+          "att_4_desc":"an unforgettable experience to witness these magnificent creatures in their natural habitat",
+          "att_5_desc":"a scenic hill country town with beautiful views, waterfalls, and tea plantations",
+          "att_6_desc":"a wildlife sanctuary with a high density of leopards, elephants, and other exotic animals",
+          "att_7_desc":"a wildlife sanctuary with a high density of leopards, elephants, and other exotic animals",
+          "att_8_desc":"a cultural city with a rich history, beautiful temples, and lush greenery.",
+  
+          
+          "price_usd":"1200",
+          "price_lkr":"225000"
+      },
+  
+  
+      {
+          "id":5,
+          "category":101,
+          "cat_show":"Budget Travel",
+          "name":"Serene Sri Lanka",
+          "sm_desc":"Tranquility that won't break bank",
+          "card_img":"https://images.unsplash.com/flagged/photo-1567498573339-688686a4b5df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "lg_desc":"This budget-friendly tour package is perfect for those who want to experience the serenity and tranquility of Sri Lanka without breaking the bank. You'll visit some of the country's most beautiful and peaceful locations, including tea plantations, botanical gardens, and stunning beaches. All while staying in comfortable, affordable accommodations that won't compromise on quality.",
+          "days":"4",
+          "tour_d1_title":"Day 1: Galle Fort, Koggala Lake, Cinnamon Island, Cinnamon Island",
+          "tour_d2_title":"Day 2: Nuwara Eliya",
+          "tour_d3_title":"Day 3: Polonnaruwa",
+          "tour_d4_title":"Day 4: Dambulla, Sigiriya",
+  
+          "tour_d1_desc":"The tour starts with a visit to the iconic Galle Fort, a UNESCO World Heritage Site that dates back to the 16th century. Explore the charming streets of the fort and take in the beautiful views of the Indian Ocean. Next, head to the nearby Koggala Lake and take a boat ride to the Cinnamon Island, where you can learn about the cinnamon cultivation and processing techniques. After that, visit the Turtle Hatchery in Kosgoda to see how the conservation project helps protect sea turtles.",
+          "tour_d2_desc":"On the second day of the tour, you will visit the beautiful town of Nuwara Eliya, also known as Little England, located in the central highlands of Sri Lanka. Take a scenic train ride from Kandy to Nuwara Eliya, passing through lush green tea estates and picturesque hills. Once you arrive, you can explore the town's colonial architecture, visit a tea factory to learn about the process of tea production, and enjoy a cup of freshly brewed Ceylon tea.",
+          "tour_d3_desc":"The third day of the tour takes you to the ancient city of Polonnaruwa, another UNESCO World Heritage Site. Explore the well-preserved ruins of the city, including the Royal Palace, the Quadrangle, and the Gal Vihara, which houses four magnificent Buddha statues carved out of a single granite block. After that, head to the Minneriya National Park for an exciting jeep safari to spot elephants, leopards, deer, and a variety of bird species.",
+          "tour_d4_desc":"On the last day of the tour, you will visit the Dambulla Cave Temple, a sacred Buddhist site that features a complex of five cave temples filled with beautiful statues and murals. From there, head to the Sigiriya Rock Fortress, a UNESCO World Heritage Site that offers breathtaking views of the surrounding landscape. Climb to the top of the fortress and explore the ancient ruins of King Kasyapa's palace.",
+  
+          "acc_d1":"Day 1: Budget hotel in Colombo",
+          "acc_d2":"Day 2: Budget guesthouse in Kandy",
+          "acc_d3":"Day 3: Budget guesthouse in Ella",
+          "acc_d4":"Day 4: Budget hotel in Mirissa",
+  
+          "att_1_title":"Colombo",
+          "att_2_title":"Kandy",
+          "att_3_title":"Ella",
+          "att_4_title":"Mirissa",
+  
+          "att_1_desc":"Visit the National Museum of Colombo to learn about Sri Lanka's history and culture, Stroll through Viharamahadevi Park, a popular public park in the heart of the city, Take a tuk-tuk ride through the bustling streets of Pettah market",
+          "att_2_desc":"Take a tuk-tuk ride through the bustling streets of Pettah market, Explore the Royal Botanical Gardens of Peradeniya, home to a stunning collection of orchids and other tropical plants, Take a walk around Kandy Lake, a serene and scenic spot in the heart of the city",
+          "att_3_desc":"Hike to Little Adam's Peak for stunning views of the surrounding tea plantations and mountains, Visit the Nine Arch Bridge, an iconic railway bridge surrounded by lush greenery, Explore Ella town and try some of the local street food and tea",
+          "att_4_desc":"Relax on the beautiful Mirissa beach and soak up the sun, Go on a whale watching tour from Mirissa Harbor, Visit the nearby Weligama Bay, a popular spot for surfing",
+          
+          "price_usd":"400",
+          "price_lkr":"80000"
+      },
+  
+  
+        {
+            "id":4,
+            "category":100,
+            "cat_show":"Luxary/ With-Most",
+            "name":"Hill Country Escape",
+            "sm_desc":"Experience the misty mountains!",
+            "card_img":"https://images.unsplash.com/photo-1609515286252-3429567a66fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+            "lg_desc":"This package is perfect for travelers who want to escape the hustle and bustle of the city and experience the natural beauty of Sri Lanka's hill country. You'll visit picturesque towns like Nuwara Eliya and Ella, explore tea plantations, and hike through misty mountains. You'll be amazed by the breathtaking scenery and fresh mountain air.",
+            "days":"7",
+            "tour_d1_title":"Day 1: Kandy",
+            "tour_d2_title":"Day 2-3: Nuwara Eliya",
+            "tour_d3_title":"Day 4-5: Ella",
+            "tour_d4_title":"Day 6-7: Tissamaharama",
+  
+            "tour_d1_desc":"You will start your tour by exploring the ancient city of Kandy, which is a UNESCO World Heritage Site. Visit the sacred Temple of the Tooth, which houses the relic of Buddha's tooth, and take a stroll around the serene Kandy Lake. You can also witness the traditional Kandyan dance performance in the evening.",
+            "tour_d2_desc":"On the second day, you will drive through the winding roads and picturesque landscapes to reach Nuwara Eliya, the heart of Sri Lanka's tea country. You will explore the lush tea plantations, visit a tea factory, and taste some of the finest Ceylon tea. You can also visit the Horton Plains National Park, which is a UNESCO World Heritage Site and home to a unique ecosystem of cloud forests and grasslands. The park is famous for its stunning natural attractions such as Baker's Falls and World's End.",
+            "tour_d3_desc":"On the second day, you will drive through the winding roads and picturesque landscapes to reach Nuwara Eliya, the heart of Sri Lanka's tea country. You will explore the lush tea plantations, visit a tea factory, and taste some of the finest Ceylon tea. You can also visit the Horton Plains National Park, which is a UNESCO World Heritage Site and home to a unique ecosystem of cloud forests and grasslands. The park is famous for its stunning natural attractions such as Baker's Falls and World's End.",
+            "tour_d4_desc":"Finally, you will drive down to Tissamaharama, which is the gateway to Sri Lanka's southern wildlife reserves. You will visit the Yala National Park, which is home to a wide range of animals, including elephants, leopards, sloth bears, and crocodiles. You can also take a boat safari on the serene Tissa Lake to witness the stunning birdlife and water creatures.",
+  
+            "acc_d1":"Day 1: Kandy - Hotel Topaz",
+            "acc_d2":"Day 2-3: Nuwara Eliya - Day 2-3: Nuwara Eliya",
+            "acc_d3":"Day 4-5: Ella - 98 Acres Resort & Spa",
+            "acc_d4":"Day 6-7: Tissamaharama - Kithala Resort",
+  
+            "att_1_title":"Day 1: Kandy",
+            "att_2_title":"Day 2-3: Nuwara Eliya",
+            "att_3_title":"Day 4-5: Ella",
+            "att_4_title":"Day 6-7: Tissamaharama",
+  
+            "att_1_desc":"Visit the Temple of the Tooth, a UNESCO World Heritage site and one of the most sacred places for Buddhists in Sri Lanka, Stroll around the picturesque Kandy Lake and enjoy the serene surroundings, Explore the local market and indulge in some shopping for souvenirs or local products",
+            "att_2_desc":"Take a scenic train ride through the beautiful landscapes of the hill country, passing through tea plantations and misty mountains, Visit a tea factory and learn about the process of tea production in Sri Lanka, while enjoying some freshly brewed tea, Explore the town of Nuwara Eliya, known as the \"Little England\" of Sri Lanka due to its colonial architecture and cooler climate, Visit the Horton Plains National Park and hike to the World's End, a breathtaking viewpoint overlooking a sheer drop of almost 1,000 meters",
+            "att_3_desc":"Enjoy the stunning views of the Ella Gap and the surrounding hills from the top of Little Adam's Peak or Ella Rock, Visit the Ravana Falls, a picturesque waterfall named after a legendary demon king from the Hindu epic Ramayana, Take a scenic train ride from Ella to Demodara, passing through the famous Nine Arch Bridge, a spectacular feat of engineering and a popular photo spot",
+            "att_4_desc":"Go on a safari in the Yala National Park, one of the most famous and diverse wildlife reserves in Sri Lanka, home to elephants, leopards, crocodiles, and many other species of animals and birds, Visit the ancient city of Kataragama, a pilgrimage site for Buddhists, Hindus, and Muslims, and explore the colorful temples and shrines, Enjoy a boat ride on the serene Tissa Lake, and spot some rare birds and other wildlife along the shore",
+            
+            "price_usd":"1155",
+            "price_lkr":"231000"
+        },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      {
+          "id":2,
+          "category":100,
+          "cat_show":"Luxary/ With-Most",
+          "name":"Beach Bliss",
+          "sm_desc":"Soak up the tropical paradise!",
+          "card_img":"https://images.unsplash.com/photo-1525849306000-cc26ceb5c1d7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+          "lg_desc":"This package is perfect for travelers who want to relax and soak up the sun. It takes you to some of Sri Lanka's most beautiful beaches, such as Unawatuna, Mirissa, and Bentota. You'll have plenty of time to relax on the golden sand, take a dip in the crystal-clear water, and enjoy the stunning views",
+          "days":"7",
+          "tour_d1_title":"Day 1: Arrival in Colombo",
+          "tour_d2_title":"Day 2-3: Bentota Beach",
+          "tour_d3_title":"Day 4-5: Unawatuna Beach",
+          "tour_d4_title":"Day 6-7: Mirissa Beach",
+          "tour_d5_title":"Day 8: Departure",
+  
+          "tour_d1_desc":"Upon your arrival at the Bandaranaike International Airport in Colombo, you'll be greeted by your tour guide and transferred to your beachfront hotel in Negombo. The rest of the day is at your leisure to relax and enjoy the beautiful surroundings.",
+          "tour_d2_desc":"After breakfast, you'll be transferred to the stunning beach town of Bentota, located on the south-west coast of Sri Lanka. Here, you'll spend two days soaking up the sun, swimming in the warm waters of the Indian Ocean, and enjoying the various water sports and activities available, such as snorkeling, scuba diving, and jet skiing",
+          "tour_d3_desc":"Next, you'll head to the picturesque Unawatuna Beach, located on the southern coast of Sri Lanka. This palm-fringed beach is renowned for its clear turquoise waters, soft golden sand, and vibrant coral reefs. You can spend your days here relaxing on the beach, exploring the nearby historic Galle Fort, or taking a boat trip to see the whales and dolphins that frequent the waters off the coast.",
+          "tour_d4_desc":"Your last two days will be spent at the beautiful Mirissa Beach, another popular beach destination located on the southern coast of Sri Lanka. This long crescent-shaped beach is perfect for swimming and sunbathing, and you can also enjoy activities like surfing and paddleboarding. You'll also have the opportunity to take a whale watching tour, where you can spot the majestic blue whale and other marine creatures in their natural habitat.",
+          "tour_d5_desc":"After breakfast, you'll be transferred back to the airport in Colombo for your departure flight.",
+  
+          "acc_d1":"Day 1: Negombo - 3-star or above hotel in Negombo, located on or near the beach",
+          "acc_d2":"Day 2-3: Bentota Beach - 3-star or above beach resort in Bentota, located on or near the beach",
+          "acc_d3":"Day 2-3: Bentota Beach - 3-star or above beach resort in Bentota, located on or near the beach",
+          "acc_d4":"Day 6-7: Mirissa Beach - 3-star or above beach resort in Mirissa, located on or near the beach",
+  
+          "att_1_title":"Arrival in Colombo",
+          "att_2_title":"Bentota Beach",
+          "att_3_title":"Unawatuna Beach",
+          "att_4_title":"Mirissa Beach",
+  
+          "att_1_desc":"After your arrival at the Bandaranaike International Airport in Colombo, you'll be transferred to your hotel in Negombo, a coastal town located just a short distance from the airport. Negombo is known for its long stretch of beach, bustling fish market, and colonial-era architecture. You can spend the afternoon relaxing on the beach or exploring the town's sights.",
+          "att_2_desc":"Bentota is a popular beach destination located on the southwest coast of Sri Lanka, known for its golden sand beaches and calm waters. Here, you can enjoy various water sports like surfing, jet skiing, and snorkeling. You can also take a boat ride through the mangrove-lined lagoon or visit the nearby Turtle Hatchery, which aims to conserve and protect endangered sea turtles.",
+          "att_3_desc":"Unawatuna is a charming coastal town located on the southern coast of Sri Lanka, known for its pristine beaches and rich cultural heritage. The nearby historic Galle Fort, a UNESCO World Heritage Site, is a must-visit attraction. Built by the Portuguese in the 16th century and later expanded by the Dutch, the fort is a remarkable testament to Sri Lanka's colonial past. You can also visit the nearby Rumassala Hill, a forested nature reserve that offers panoramic views of the coastline.",
+          "att_4_desc":"Mirissa is a laid-back beach town located on the southern coast of Sri Lanka, known for its picturesque beach and excellent whale watching opportunities. You can take a boat tour to see blue whales, sperm whales, and dolphins up close in their natural habitat. You can also explore the nearby fishing village and sample fresh seafood dishes.",
+          
+          "price_usd":"1640",
+          "price_lkr":"297000"
+      },
+  
+  
+     
+  
+  
+  
+      {
+          "id":7,
+          "category":101,
+          "cat_show":"Budget Travel",
+          "name":"Cultural Delights",
+          "sm_desc":"Experience heritage on a budget",
+          "card_img":"https://images.unsplash.com/photo-1675597831952-e1e22180b1cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80",
+          "lg_desc":"If you're looking to immerse yourself in Sri Lanka's rich cultural heritage without breaking the bank, this budget tour package is for you. You'll explore ancient temples, ancient cities, and historical landmarks that have shaped Sri Lanka's unique culture and traditions. All while staying in budget-friendly accommodations that offer comfort and convenience.",
+          "days":"4",
+          "tour_d1_title":"Day 1: Colombo to Kandy",
+          "tour_d2_title":"Day 2: Kandy to Sigiriya",
+          "tour_d3_title":"Day 3: Sigiriya to Polonnaruwa",
+          "tour_d4_title":"Day 4: Polonnaruwa to Colombo",
+  
+          "tour_d1_desc":"On the first day of the tour, you will be picked up from Colombo and taken to the historic city of Kandy. En route, you will stop at the Pinnawala Elephant Orphanage, where you can see baby elephants being fed and bathed. In Kandy, you will visit the Temple of the Tooth, one of the most important Buddhist temples in Sri Lanka, and witness a cultural show in the evening.",
+          "tour_d2_desc":"After breakfast, you will leave Kandy and head to the ancient city of Sigiriya. On the way, you will visit the Dambulla Cave Temple, a UNESCO World Heritage site that features over 150 Buddha statues and intricate wall paintings. In the evening, you will climb the Sigiriya Rock Fortress, an ancient palace that offers stunning views of the surrounding countryside.",
+          "tour_d3_desc":"On the third day of the tour, you will visit the ancient city of Polonnaruwa, which was once the capital of Sri Lanka. Here, you will explore the ruins of the Royal Palace, the Gal Vihara, and the Temple of the Tooth. You will also have the chance to take a scenic boat ride on the Parakrama Samudraya lake.",
+          "tour_d4_desc":"On the third day of the tour, you will visit the ancient city of Polonnaruwa, which was once the capital of Sri Lanka. Here, you will explore the ruins of the Royal Palace, the Gal Vihara, and the Temple of the Tooth. You will also have the chance to take a scenic boat ride on the Parakrama Samudraya lake.",
+  
+          "acc_d1":"Day 1: Hotel in Kandy",
+          "acc_d2":"Day 2: Hotel in Sigiriya",
+          "acc_d3":"Day 3: Hotel in Polonnaruwa",
+          "acc_d4":"Day 4: No accommodation provided",
+  
+          "att_1_title":"Day 1: Colombo",
+          "att_2_title":"Day 2: Kandy",
+          "att_3_title":"Day 3: Sigiriya",
+          "att_4_title":"Day 3: Sigiriya",
+  
+          "att_1_desc":"National Museum of Colombo: A fascinating museum showcasing Sri Lanka's history, culture, and art, Gangaramaya Temple: A beautiful temple complex featuring a blend of Sri Lankan, Indian, and Chinese architectural styles.",
+          "att_2_desc":"Temple of the Tooth: A sacred Buddhist temple that houses the tooth relic of Lord Buddha, Kandy Lake: A stunning artificial lake that is a popular spot for a leisurely stroll or picnic",
+          "att_3_desc":"Sigiriya Rock Fortress: A UNESCO World Heritage Site and one of Sri Lanka's most iconic landmarks, featuring a 5th-century fortress perched on top of a towering rock, Sigiriya Rock Fortress: A UNESCO World Heritage Site and one of Sri Lanka's most iconic landmarks, featuring a 5th-century fortress perched on top of a towering rock",
+          "att_4_desc":"Negombo Fish Market: A bustling market where you can witness the daily catch being auctioned off and purchase fresh seafood, Negombo Fish Market: A bustling market where you can witness the daily catch being auctioned off and purchase fresh seafood",
+          
+          "price_usd":"250",
+          "price_lkr":"40000"
+      },
+  
+  
+  
+      {
+          "id":8,
+          "category":101,
+          "cat_show":"Budget Travel",
+          "name":"Adventure on Budget",
+          "sm_desc":"Thrills and spills, wallet-friendly style",
+          "card_img":"https://images.pexels.com/photos/1732278/pexels-photo-1732278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "lg_desc":"This budget-friendly adventure tour is perfect for those looking to experience the thrills and spills of Sri Lanka without burning a hole in their wallet. You'll trek through scenic trails, go on exciting safaris, and even take part in exhilarating water sports. All while staying in comfortable, budget-friendly accommodations that offer great value for money.",
+          "days":"5",
+          "tour_d1_title":"Day 1: Negombo",
+          "tour_d2_title":"Day 2: Kitulgala",
+          "tour_d3_title":"Day 3: Nuwara Eliya",
+          "tour_d4_title":"Day 4: Udawalawe National Park",
+          "tour_d5_title":"Day 5: Galle Fort",
+  
+          "tour_d1_desc":"Your tour begins in Negombo, a vibrant coastal town that boasts of a rich history and stunning beaches. You will visit the iconic St. Mary's Church, the largest Catholic church in Sri Lanka, before heading to Muthurajawela Marsh, a vast wetland ecosystem that is home to a diverse array of flora and fauna. Enjoy a boat ride through the mangroves, spotting crocodiles, monkeys, and a wide variety of bird species.",
+          "tour_d2_desc":"Get ready for an adrenaline rush as you head to Kitulgala, the adventure capital of Sri Lanka. You will embark on a white-water rafting adventure, paddling down the Kelani River and navigating the rapids. You will also have the opportunity to try your hand at other activities such as waterfall abseiling, jungle trekking, and zip-lining.",
+          "tour_d3_desc":"Your adventure continues as you head to the hill country of Nuwara Eliya, stopping at the Ramboda Waterfall and a tea factory along the way. In Nuwara Eliya, you will explore the beautiful Horton Plains National Park, where you can hike to the famous World's End viewpoint and take in stunning panoramic views of the surrounding countryside.",
+          "tour_d4_desc":"Your journey takes you to Udawalawe National Park, one of the best places in Sri Lanka to see wild elephants. Enjoy a jeep safari through the park, spotting other wildlife such as leopards, deer, and crocodiles.",
+          "tour_d5_desc":"Your tour comes to an end with a visit to the historic Galle Fort, a UNESCO World Heritage site that was once a major trading port for spices and gemstones. Explore the narrow streets and colonial-era buildings before heading back to your starting point in Negombo.",
+  
+          "acc_d1":"Day 1: budget guesthouse in Negombo",
+          "acc_d2":"Day 2: budget hotel in Sigiriya",
+          "acc_d3":"Day 3: budget hotel in Kandy",
+          "acc_d4":"Day 4: budget guesthouse in Ella",
+          "acc_d5":"Day 5: budget hotel in Mirissa",
+  
+          "att_1_title":"Day 1: Udawatta Kele Sanctuary, Temple of the Tooth Relic",
+          "att_2_title":"Day 2: Horton Plains National Park, Tea Plantation and Factory Visit",
+          "att_3_title":"Day 3: Ella Rock, Nine Arch Bridge" ,
+          "att_4_title":"Day 4: Udawalawe National Park, Elephant Transit Home" ,
+          "att_5_title":"Day 5: Galle Fort, Unawatuna Beach" ,
+  
+          "att_1_desc":"Udawatta Kele Sanctuary: A nature reserve in Kandy that offers a peaceful escape from the bustling city. You can explore the hiking trails and see some of the native wildlife, Temple of the Tooth Relic: A sacred Buddhist temple in Kandy that is believed to house a tooth of Buddha",
+          "att_2_desc":"Horton Plains National Park: A scenic national park with diverse landscapes including grasslands, forests, and waterfalls. You can hike to the famous World's End viewpoint for stunning panoramic views, Tea Plantation and Factory Visit: Visit a tea plantation in the hill country and learn about the process of tea production",
+          "att_3_desc":"Ella Rock: A challenging but rewarding hike in the town of Ella, with breathtaking views of the surrounding mountains and valleys, Nine Arch Bridge: A picturesque railway bridge in Ella that is popular for photography",
+          "att_4_desc":"Udawalawe National Park: A popular safari destination that is home to a variety of wildlife including elephants, leopards, and exotic birds, Elephant Transit Home: A rehabilitation center for orphaned elephants, where you can see the animals being fed and cared for",
+          "att_5_desc":"Galle Fort: A historic fortification in the coastal city of Galle, built by the Dutch in the 17th century. You can explore the charming narrow streets, old colonial buildings, and scenic sea views, Unawatuna Beach: A beautiful beach with clear blue waters and soft golden sand, perfect for swimming, sunbathing, and water sports",
+          
+          "price_usd":"275",
+          "price_lkr":"55000"
+      },
+  
+  
+  
+  
+  
+  
+  
+  
+      {
+          "id":11,
+          "category":102,
+          "cat_show":"8-10 persons",
+          "name":"Group Adventure Expedition",
+          "sm_desc":"Discover the island's hidden gems with your squad",
+          "card_img":"https://i0.wp.com/boutiquetravelblog.com/wp-content/uploads/2015/11/safari-in-sri-lanka-810.jpg?resize=810%2C540",
+          "lg_desc":"Group Adventure Expedition is an exciting tour package designed for adventure enthusiasts who want to explore the untamed wilderness of Sri Lanka. The 7-day tour takes you on a thrilling journey through the country's lush jungles, misty mountains, and pristine beaches. You'll go on exhilarating hikes, thrilling safaris, and thrilling water sports activities. You'll also get the chance to witness Sri Lanka's unique wildlife and cultural heritage.",
+          "days":"7",
+          "tour_d1_title":"Day 1: Arrival and Transfer to Kithulgala",
+          "tour_d2_title":"Day 1: Arrival and Transfer to Kithulgala",
+          "tour_d3_title":"Day 3: Hiking in Knuckles Mountain Range",
+          "tour_d4_title":"Day 4: Safari in Minneriya National Park",
+          "tour_d5_title":"Day 5: Water Sports in Bentota",
+          "tour_d6_title":"Day 6: River Safari in Madu Ganga",
+          "tour_d7_title":"Day 6: River Safari in Madu Ganga",
+  
+          "tour_d1_desc":"Upon your arrival at Bandaranaike International Airport, you will be met by our representative and transferred to Kithulgala, a picturesque town surrounded by mountains and rainforests. Check-in at the hotel and spend the evening relaxing or exploring the town.",
+          "tour_d2_desc":"After breakfast, embark on a jungle trek in Kithulgala, known for its scenic trails, gushing waterfalls, and diverse flora and fauna. Explore the forest and spot some exotic birds and animals. Return to the hotel for a refreshing swim in the river and dinner.",
+          "tour_d3_desc":"After breakfast, drive to the Knuckles Mountain Range, a UNESCO World Heritage Site, known for its breathtaking views and unique flora and fauna. Embark on a guided hike and explore the natural wonders of the mountain range. Return to the hotel for dinner and relaxation.",
+          "tour_d4_desc":"After breakfast, drive to Minneriya National Park, home to a large population of wild elephants, leopards, and other animals. Enjoy a thrilling safari ride and spot some of Sri Lanka's magnificent wildlife. Return to the hotel for dinner and relaxation.",
+          "tour_d5_desc":"After breakfast, head to Bentota, a popular beach town known for its water sports. Enjoy a range of activities such as jet skiing, windsurfing, and banana boat rides. Relax on the beach and take in the stunning views. Return to the hotel for dinner.",
+          "tour_d6_desc":"After breakfast, take a river safari in Madu Ganga, a beautiful wetland ecosystem with mangrove forests and abundant birdlife. Explore the serene surroundings and enjoy a peaceful boat ride. Return to the hotel for dinner and relaxation.",
+          "tour_d7_desc":"After breakfast, check-out of the hotel and transfer to the airport for your departure flight.",
+  
+          "acc_d1":"Day 1: Overnight stay at a hotel in Colombo",
+          "acc_d2":"Day 2-3: Camping at Sinharaja Rainforest",
+          "acc_d3":"Day 4: Overnight stay at a hotel in Nuwara Eliya",
+          "acc_d4":"Day 5-6: Camping at Knuckles Mountain Range",
+          "acc_d5":"Day 7: Overnight stay at a hotel in Wilpattu",
+          "acc_d6":"Accommodations will vary between basic tents while camping in the rainforest and mountain range, to comfortable hotels in Colombo, Nuwara Eliya, and Wilpattu. The hotels will provide comfortable beds, hot showers, and other necessary amenities.",
+  
+          "att_1_title":"Horton Plains National Park:",
+          "att_2_title":"Sigiriya Rock Fortress:",
+          "att_3_title":"Udawalawe National Park:",
+          "att_4_title":"Kitulgala:",
+          "att_5_title":"Adam's Peak:",
+          "att_6_title":"Ella:",
+          "att_7_title":"Yala National Park: ",
+          "att_8_title":"Mirissa: ",
+  
+          "att_1_desc":"Located in the central highlands, the park offers breathtaking views, hiking trails, and diverse wildlife.",
+          "att_2_desc":"A UNESCO World Heritage Site, the ancient fortress features stunning views, fascinating history, and unique rock formations.",
+          "att_3_desc":"Home to diverse wildlife including elephants, leopards, and crocodiles, the park offers thrilling safari rides.",
+          "att_4_desc":"Known for its water sports and adventure activities, Kitulgala is a popular destination for white water rafting, kayaking, and canyoning.",
+          "att_5_desc":"A sacred mountain with a unique pyramid-shaped summit, Adam's Peak offers spectacular views and a challenging hike.",
+          "att_6_desc":"A scenic town surrounded by tea plantations and waterfalls, Ella is a popular destination for hiking, rock climbing, and adventure activities.",
+          "att_7_desc":"Home to the highest density of leopards in the world, Yala National Park offers exciting safari rides and stunning natural beauty.",
+          "att_8_desc":"A picturesque coastal town known for its beaches, whale watching, and water sports.",
+          
+          "price_usd":"1600",
+          "price_lkr":"320000"
+      },
+  
+  
+      
+      {
+          "id":10,
+          "category":102,
+          "cat_show":"4-6 persons",
+          "name":"Family Fun in Sri Lanka",
+          "sm_desc":"Make unforgettable memories with your loved ones",
+          "card_img":"https://thumbs.dreamstime.com/b/family-sri-lanka-family-father-son-exploring-bahirawakanda-temple-kandy-sri-lanka-178597181.jpg",
+          "lg_desc":"Experience the perfect family adventure in Sri Lanka with our Family Fun tour. Explore ancient cities, discover wildlife, enjoy water sports, and relax on golden beaches. This 8-day tour is designed to offer exciting experiences for every member of the family. With comfortable accommodation, private transportation, and expert guides, create unforgettable memories with your loved ones.",
+          "days":"7",
+          "tour_d1_title":"Day 1: Arrival in Colombo",
+          "tour_d2_title":"Day 2: Colombo City Tour and Shopping",
+          "tour_d3_title":"Day 3: Pinnawala Elephant Orphanage and Kandy",
+          "tour_d4_title":"Day 4: Peradeniya Botanical Gardens and Nuwara Eliya",
+          "tour_d5_title":"Day 5: Horton Plains and Ella",
+          "tour_d6_title":"Day 6: Udawalawe National Park and Mirissa Beach",
+          "tour_d7_title":"Day 7: Whale Watching and Departure",
+  
+          "tour_d1_desc":"Arrival at the Bandaranaike International Airport and transfer to the hotel in Colombo, Relax and unwind at the hotel after a long flight",
+          "tour_d2_desc":"Breakfast at the hotel, Colombo city tour including visits to the National Museum, Gangaramaya Temple, Independence Square, and the Galle Face Green, Shopping at Odel, Arcade Independence Square, and the Pettah Market, Return to the hotel for dinner and overnight stay",
+          "tour_d3_desc":"Breakfast at the hotel, Transfer to Pinnawala Elephant Orphanage and witness the feeding of baby elephants and the elephant bath at the river, Transfer to Kandy and check-in at the hotel, Visit the Temple of the Tooth Relic, Kandy Lake, and the Kandy Cultural Show in the evening, Return to the hotel for dinner and overnight stay",
+          "tour_d4_desc":"Breakfast at the hotel, Visit the Peradeniya Botanical Gardens, known for its wide collection of orchids, spices, and medicinal plants, Transfer to Nuwara Eliya and check-in at the hotel, Visit the Gregory Lake, Victoria Park, and Tea Factory and learn about the tea-making process, Return to the hotel for dinner and overnight stay",
+          "tour_d5_desc":"Breakfast at the hotel, Visit Horton Plains National Park, famous for its scenic trekking trails and the World's End viewpoint, Transfer to Ella and check-in at the hotel, Visit the Nine Arch Bridge and Ella Rock, Return to the hotel for dinner and overnight stay",
+          "tour_d6_desc":"Breakfast at the hotel, Transfer to Udawalawe National Park for a wildlife safari and witness herds of elephants and other wildlife, Transfer to Mirissa Beach and check-in at the hotel, Enjoy the beach and water sports activities, Return to the hotel for dinner and overnight stay",
+          "tour_d7_desc":"Early morning whale watching tour from Mirissa, Return to the hotel for breakfast and check-out, Transfer to the Bandaranaike International Airport for departure",
+  
+  
+          "acc_d1":"Colombo: Cinnamon Lakeside Hotel or similar (2 nights)",
+          "acc_d2":"Sigiriya: Aliya Resort and Spa or similar (2 nights)",
+          "acc_d3":"Kandy: OZO Kandy Hotel or similar (2 nights)",
+          "acc_d4":"Nuwara Eliya: Jetwing St. Andrew's or similar (1 night)",
+          "acc_d5":"Bentota: Centara Ceysands Resort and Spa or similar (2 nights)",
+  
+          "att_1_title":"Pinnawala Elephant Orphanage: ",
+          "att_2_title":"Sigiriya Rock Fortress:",
+          "att_3_title":"Temple of the Tooth",
+          "att_4_title":"Minneriya National Park:",
+          "att_5_title":"Dambulla Cave Temple:",
+          "att_6_title":"Hikkaduwa Beach:",
+          "att_7_title":"Colombo City Tour:",
+          "att_8_title":"Turtle Hatchery:",
+          "att_9_title":"Kandy Lake:",
+          "att_10_title":"Spice Garden:",
+  
+          "att_1_desc":"Visit the Pinnawala Elephant Orphanage to see baby elephants being bottle-fed, and witness a herd of elephants taking a bath in the nearby river.",
+          "att_2_desc":"Explore the ancient ruins of Sigiriya Rock Fortress, an UNESCO World Heritage Site that dates back to the 5th century.",
+          "att_3_desc":"Visit the sacred Temple of the Tooth in Kandy, which is home to Sri Lanka's most important Buddhist relic - a tooth of the Buddha.",
+          "att_4_desc":"Take a jeep safari in Minneriya National Park to spot wild elephants, deer, and other wildlife.",
+          "att_5_desc":"Explore the five caves of the Dambulla Cave Temple, which houses over 150 Buddha statues and religious paintings.",
+          "att_6_desc":"Enjoy some sun, sand and sea at Hikkaduwa Beach, a popular family-friendly beach destination.",
+          "att_7_desc":"Take a tour of the bustling city of Colombo, and visit some of its iconic landmarks such as the Gangaramaya Temple, Independence Square and Galle Face Green.",
+          "att_8_desc":"Visit a turtle hatchery in Bentota to learn about the conservation efforts to protect these endangered animals.",
+          "att_9_desc":"Take a relaxing stroll around Kandy Lake, which is located in the heart of Kandy city.",
+          "att_10_desc":"Visit a spice garden in Matale to learn about the different types of spices that are grown in Sri Lanka, and their culinary and medicinal uses.",
+  
+          
+          "price_usd":"1600",
+          "price_lkr":"320000"
+      },
+  
+  
+  
+      {
+          "id":12,
+          "category":102,
+          "cat_show":"1 person",
+          "name":"Solo Backpacker's Trail",
+          "sm_desc":"Embark on a journey of self-discovery",
+          "card_img":"https://i.pinimg.com/originals/e9/1f/e4/e91fe4e491595993f42a24941b372a7b.jpg",
+          "lg_desc":"Experience the thrill of Sri Lanka's rugged terrain with the Solo Backpacker's Trail. Embark on an adventure of a lifetime with 5 days of jungle hikes and thrilling events, from river rafting in Kitulgala to hiking the Knuckles Mountain Range. Visit cultural landmarks like the Temple of the Tooth Relic in Kandy and scenic tea plantations in Nuwara Eliya, before exploring the cosmopolitan city of Colombo. Join fellow backpackers on this budget-friendly expedition, perfect for adventure seekers and nature enthusiasts.",
+          "days":"5",
+          "tour_d1_title":"Day 1: Arrival in Colombo and Transfer to Kandy",
+          "tour_d2_title":"Day 2: Hiking in Knuckles Mountain Range",
+          "tour_d3_title":"Day 3: River Rafting in Kitulgala",
+          "tour_d4_title":"Day 4: Exploring the Hill Country",
+          "tour_d5_title":"Day 5: Departure from Colombo",
+  
+          "tour_d1_desc":"Meet and greet at Colombo International Airport, Transfer to Kandy, a city in central Sri Lanka, Visit the Temple of the Tooth Relic, one of the most sacred Buddhist sites in the world, Stay overnight in Kandy",
+          "tour_d2_desc":"Depart early for a hiking adventure in the Knuckles Mountain Range, known for its stunning landscapes and biodiversity, Enjoy a picnic lunch amidst the natural beauty, Return to Kandy for an overnight stay",
+          "tour_d3_desc":"Depart for Kitulgala, a small town known for its scenic beauty and thrilling water sports, Enjoy an adrenaline-pumping river rafting adventure, Stay overnight in Kitulgala",
+          "tour_d4_desc":"Transfer to Nuwara Eliya, a picturesque hill station in Sri Lanka's tea country, Visit a tea plantation and learn about the tea-making process, Enjoy the scenic beauty of the hill country, Stay overnight in Nuwara Eliya",
+          "tour_d5_desc":"Depart for Colombo, Visit some of the city's top attractions, such as the Galle Face Green and the National Museum, Transfer to Colombo International Airport for departure",
+  
+          "acc_d1":"Day 1: Kandy budget hotel",
+          "acc_d2":"Day 2: Kandy budget hotel",
+          "acc_d3":"Day 3: Kitulgala budget hotel",
+          "acc_d4":"Day 4: Nuwara Eliya budget hotel",
+          "acc_d5":"Day 5: No accommodation",
+  
+          "att_1_title":"Temple of the Tooth Relic in Kandy",
+          "att_2_title":"Knuckles Mountain Range for hiking",
+          "att_3_title":"Kitulgala for river rafting and other water sports",
+          "att_4_title":"Nuwara Eliya for scenic beauty and tea plantations",
+          "att_5_title":"Colombo for city attractions like the National Museum and Galle Face Green",
+  
+          "att_1_desc":"The first stop on the trail is the Temple of the Tooth Relic in Kandy, a sacred Buddhist site that houses a tooth relic of the Buddha.",
+          "att_2_desc":"Knuckles Mountain Range, a UNESCO World Heritage site that offers some of the best hiking opportunities in the country. With its rugged terrain and stunning vistas, the Knuckles are a paradise for adventure seekers.",
+          "att_3_desc":"Kitulgala, a small town nestled in the verdant forests of Sri Lanka's hill country. Kitulgala is known for its white-water rafting and other water sports, making it the perfect destination for thrill-seekers.",
+          "att_4_desc":"Nuwara Eliya, a picturesque hill station known for its scenic beauty and tea plantations. Here, you can take a leisurely stroll through the lush tea gardens, and sample some of the world-renowned Ceylon tea.",
+          "att_5_desc":"Colombo, Sri Lanka's vibrant capital city. Colombo has plenty of attractions to offer, including the National Museum, the Gangaramaya Buddhist Temple, and the Galle Face Green, a seaside promenade that is perfect for a leisurely evening stroll.",
+          
+          "price_usd":"412",
+          "price_lkr":"92000"
+      }
+  
+    ]
+  }
